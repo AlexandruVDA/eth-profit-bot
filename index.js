@@ -1,4 +1,4 @@
-1require("dotenv").config();
+require("dotenv").config();
 const Binance = require("binance-api-node").default;
 
 const client = Binance({
